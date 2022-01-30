@@ -1,4 +1,3 @@
-# PythonProject
-PythonLearningProject
+Python LearningProject
 
-THIS IS THE FILE CREATED BEFORE START WORKING ON PYTHON PILOT PROJECT.
+This is the file created before start learning Python. 
